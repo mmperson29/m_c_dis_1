@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+Gabrielle
 
 ## Members
 
-- _nobody has signed on yet_
+- Madeline
